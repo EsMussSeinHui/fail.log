@@ -14,6 +14,7 @@
   "dependencies": {
     "hexo": "^4.0.0",
     "hexo-abbrlink": "^2.0.5",
+    "hexo-asset-image": "git+https://github.com/CodeFalling/hexo-asset-image.git",
     "hexo-deployer-git": "^2.1.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
@@ -28,6 +29,7 @@
     "hexo-symbols-count-time": "^0.7.0",
     "live2d-widget-model-hijiki": "^1.0.5",
     "live2d-widget-model-koharu": "^1.0.5",
-    "live2d-widget-model-nipsilon": "^1.0.5"
+    "live2d-widget-model-nipsilon": "^1.0.5",
+    "save": "^2.4.0"
   }
 }
